@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/nandinitak/Interview_pep/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/nandinitak/Interview_pep/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/nandinitak/Interview_pep/tree/master/0174-dungeon-game) |
+| [0216-combination-sum-iii](https://github.com/nandinitak/Interview_pep/tree/master/0216-combination-sum-iii) |
 | [0643-maximum-average-subarray-i](https://github.com/nandinitak/Interview_pep/tree/master/0643-maximum-average-subarray-i) |
 | [0747-min-cost-climbing-stairs](https://github.com/nandinitak/Interview_pep/tree/master/0747-min-cost-climbing-stairs) |
 ## Math
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/nandinitak/Interview_pep/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/nandinitak/Interview_pep/tree/master/0040-combination-sum-ii) |
+| [0216-combination-sum-iii](https://github.com/nandinitak/Interview_pep/tree/master/0216-combination-sum-iii) |
 ## String
 |  |
 | ------- |
