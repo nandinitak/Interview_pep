@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/nandinitak/Interview_pep/tree/master/0216-combination-sum-iii) |
 | [0643-maximum-average-subarray-i](https://github.com/nandinitak/Interview_pep/tree/master/0643-maximum-average-subarray-i) |
 | [0747-min-cost-climbing-stairs](https://github.com/nandinitak/Interview_pep/tree/master/0747-min-cost-climbing-stairs) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/nandinitak/Interview_pep/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/nandinitak/Interview_pep/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Math
 |  |
