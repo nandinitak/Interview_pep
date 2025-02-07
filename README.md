@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1364-tuple-with-same-product](https://github.com/nandinitak/Interview_pep/tree/master/1364-tuple-with-same-product) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/nandinitak/Interview_pep/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/nandinitak/Interview_pep/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/nandinitak/Interview_pep/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Math
 |  |
 | ------- |
@@ -81,10 +82,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nandinitak/Interview_pep/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1364-tuple-with-same-product](https://github.com/nandinitak/Interview_pep/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/nandinitak/Interview_pep/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/nandinitak/Interview_pep/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Simulation
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/nandinitak/Interview_pep/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/nandinitak/Interview_pep/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Counting
 |  |
 | ------- |
