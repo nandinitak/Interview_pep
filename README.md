@@ -28,12 +28,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1364-tuple-with-same-product](https://github.com/nandinitak/Interview_pep/tree/master/1364-tuple-with-same-product) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/nandinitak/Interview_pep/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/nandinitak/Interview_pep/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2448-count-number-of-bad-pairs](https://github.com/nandinitak/Interview_pep/tree/master/2448-count-number-of-bad-pairs) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/nandinitak/Interview_pep/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/nandinitak/Interview_pep/tree/master/0009-palindrome-number) |
 | [1236-n-th-tribonacci-number](https://github.com/nandinitak/Interview_pep/tree/master/1236-n-th-tribonacci-number) |
+| [2448-count-number-of-bad-pairs](https://github.com/nandinitak/Interview_pep/tree/master/2448-count-number-of-bad-pairs) |
 ## Memoization
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1364-tuple-with-same-product](https://github.com/nandinitak/Interview_pep/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/nandinitak/Interview_pep/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2434-design-a-number-container-system](https://github.com/nandinitak/Interview_pep/tree/master/2434-design-a-number-container-system) |
+| [2448-count-number-of-bad-pairs](https://github.com/nandinitak/Interview_pep/tree/master/2448-count-number-of-bad-pairs) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/nandinitak/Interview_pep/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Simulation
 |  |
@@ -94,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1364-tuple-with-same-product](https://github.com/nandinitak/Interview_pep/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/nandinitak/Interview_pep/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2448-count-number-of-bad-pairs](https://github.com/nandinitak/Interview_pep/tree/master/2448-count-number-of-bad-pairs) |
 ## Stack
 |  |
 | ------- |
