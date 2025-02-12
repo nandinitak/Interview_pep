@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-maximum-ascending-subarray-sum](https://github.com/nandinitak/Interview_pep/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/nandinitak/Interview_pep/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2448-count-number-of-bad-pairs](https://github.com/nandinitak/Interview_pep/tree/master/2448-count-number-of-bad-pairs) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/nandinitak/Interview_pep/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3226-minimum-number-game](https://github.com/nandinitak/Interview_pep/tree/master/3226-minimum-number-game) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/nandinitak/Interview_pep/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Math
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/nandinitak/Interview_pep/tree/master/0088-merge-sorted-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/nandinitak/Interview_pep/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/nandinitak/Interview_pep/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3226-minimum-number-game](https://github.com/nandinitak/Interview_pep/tree/master/3226-minimum-number-game) |
 ## Sliding Window
 |  |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/nandinitak/Interview_pep/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2434-design-a-number-container-system](https://github.com/nandinitak/Interview_pep/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/nandinitak/Interview_pep/tree/master/2448-count-number-of-bad-pairs) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/nandinitak/Interview_pep/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/nandinitak/Interview_pep/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Simulation
 |  |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/nandinitak/Interview_pep/tree/master/2434-design-a-number-container-system) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/nandinitak/Interview_pep/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3226-minimum-number-game](https://github.com/nandinitak/Interview_pep/tree/master/3226-minimum-number-game) |
 ## Ordered Set
 |  |
