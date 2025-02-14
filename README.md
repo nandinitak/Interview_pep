@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/nandinitak/Interview_pep/tree/master/0643-maximum-average-subarray-i) |
 | [0747-min-cost-climbing-stairs](https://github.com/nandinitak/Interview_pep/tree/master/0747-min-cost-climbing-stairs) |
 | [1364-tuple-with-same-product](https://github.com/nandinitak/Interview_pep/tree/master/1364-tuple-with-same-product) |
+| [1477-product-of-the-last-k-numbers](https://github.com/nandinitak/Interview_pep/tree/master/1477-product-of-the-last-k-numbers) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/nandinitak/Interview_pep/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/nandinitak/Interview_pep/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2448-count-number-of-bad-pairs](https://github.com/nandinitak/Interview_pep/tree/master/2448-count-number-of-bad-pairs) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/nandinitak/Interview_pep/tree/master/0009-palindrome-number) |
 | [1236-n-th-tribonacci-number](https://github.com/nandinitak/Interview_pep/tree/master/1236-n-th-tribonacci-number) |
+| [1477-product-of-the-last-k-numbers](https://github.com/nandinitak/Interview_pep/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/nandinitak/Interview_pep/tree/master/2448-count-number-of-bad-pairs) |
 ## Memoization
 |  |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/nandinitak/Interview_pep/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/nandinitak/Interview_pep/tree/master/2434-design-a-number-container-system) |
 ## Heap (Priority Queue)
 |  |
@@ -184,4 +187,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/nandinitak/Interview_pep/tree/master/2434-design-a-number-container-system) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/nandinitak/Interview_pep/tree/master/1477-product-of-the-last-k-numbers) |
+## Prefix Sum
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/nandinitak/Interview_pep/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
