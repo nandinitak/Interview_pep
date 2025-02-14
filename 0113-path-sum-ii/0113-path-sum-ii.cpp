@@ -14,34 +14,33 @@
 
 class Solution {
 public:
-    vector<vector<int>> p(TreeNode* root, vector<int>& ds,
-                          vector<vector<int>>& results, int t) {
+    void p(TreeNode* root, vector<int>& ds,vector<vector<int>>& results, int t,int sum) {
         if (!root)
-            return results;
-
+            return;
+        // int sum=0;
         ds.push_back(root->val);
 
-        int sum = accumulate(ds.begin(), ds.end(), 0);
+        // int sum = accumulate(ds.begin(), ds.end(), 0);
+         sum+=root->val;
 
-        if (!root->left && !root->right) { // If it's a leaf node
+        if (!root->left && !root->right) { 
             if (sum == t)
-                //  return true;
-                results.push_back(ds); // If sum matches target, return true
+                results.push_back(ds); 
         }
 
-        p(root->left, ds, results, t);
-        p(root->right, ds, results, t);
+        p(root->left, ds, results, t,sum);
+        p(root->right, ds, results, t,sum);
         ds.pop_back();
-        return results;
+        // return results;
     }
 
     vector<vector<int>> pathSum(TreeNode* root, int targetSum) {
         vector<vector<int>> results;
         vector<int> ds;
         if (!root)
-            return results; // Corrected return type
+            return results;
 
-        p(root, ds, results, targetSum);
+        p(root, ds, results, targetSum,0);
         return results;
     }
 };
