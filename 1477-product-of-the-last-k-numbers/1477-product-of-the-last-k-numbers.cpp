@@ -10,7 +10,7 @@ public:
         if(num==0) p={1};
        else{
          p.push_back(num*p.back());
-       };
+       }
         return;
     }
     
