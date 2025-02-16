@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/nandinitak/Interview_pep/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1364-tuple-with-same-product](https://github.com/nandinitak/Interview_pep/tree/master/1364-tuple-with-same-product) |
 | [1477-product-of-the-last-k-numbers](https://github.com/nandinitak/Interview_pep/tree/master/1477-product-of-the-last-k-numbers) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/nandinitak/Interview_pep/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/nandinitak/Interview_pep/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/nandinitak/Interview_pep/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2448-count-number-of-bad-pairs](https://github.com/nandinitak/Interview_pep/tree/master/2448-count-number-of-bad-pairs) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/nandinitak/Interview_pep/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/nandinitak/Interview_pep/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/nandinitak/Interview_pep/tree/master/0257-binary-tree-paths) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/nandinitak/Interview_pep/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/nandinitak/Interview_pep/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## String
 |  |
