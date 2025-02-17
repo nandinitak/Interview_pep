@@ -42,8 +42,8 @@ public:
         while (!q.empty()) {
             int size = q.size();
            
-             if (curlevel == k) break; // Stop at exact distance
-            curlevel++;
+            if (curlevel == k) break; // Stop at exact distance
+           
             for (int i = 0; i < size; i++) {
                 TreeNode* current = q.front();
                 q.pop();
@@ -66,6 +66,7 @@ public:
                     q.push(parent_track[current]);
                 }
             }
+             curlevel++;
             
         }
 
