@@ -1,18 +1,32 @@
 class Solution {
 public:
-    string smallestNumber(string pattern) {
-        string result="";
-        stack<int> s;
-        int n = pattern.length();
+    string smallestNumber(string p) {
+        int n = p.length();
+        vector<int>result;
         for(int i=0;i<=n;i++){
-            s.push(i+1);
-            if(i==n|| pattern[i]=='I'){
-                while(!s.empty()){
-                    result+=to_string(s.top());
-                    s.pop();
+            result.push_back(i+1);
+        }
+        int count=0;
+        for(int i=0;i<n;i++){
+            if(p[i]=='I' ){
+                if(count>1){
+                    reverse(result.begin()+i-count,result.begin()+i);
                 }
+                count=0;
+            }
+            if(p[i]=='D'){
+                swap(result[i],result[i+1]);
+                count++;
             }
         }
-        return result;
+        if(count>1){
+            reverse(result.end()-count-1,result.end()-1);
+        }
+
+        string r="";
+        for(int i=0;i<=n;i++){
+            r+=to_string(result[i]);
+        }
+        return r;
     }
 };
