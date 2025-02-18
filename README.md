@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/nandinitak/Interview_pep/tree/master/0174-dungeon-game) |
 | [0747-min-cost-climbing-stairs](https://github.com/nandinitak/Interview_pep/tree/master/0747-min-cost-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/nandinitak/Interview_pep/tree/master/1236-n-th-tribonacci-number) |
+| [1250-longest-common-subsequence](https://github.com/nandinitak/Interview_pep/tree/master/1250-longest-common-subsequence) |
 | [2397-count-number-of-ways-to-place-houses](https://github.com/nandinitak/Interview_pep/tree/master/2397-count-number-of-ways-to-place-houses) |
 ## Array
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/nandinitak/Interview_pep/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/nandinitak/Interview_pep/tree/master/0257-binary-tree-paths) |
 | [1160-letter-tile-possibilities](https://github.com/nandinitak/Interview_pep/tree/master/1160-letter-tile-possibilities) |
+| [1250-longest-common-subsequence](https://github.com/nandinitak/Interview_pep/tree/master/1250-longest-common-subsequence) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/nandinitak/Interview_pep/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/nandinitak/Interview_pep/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/nandinitak/Interview_pep/tree/master/2021-remove-all-occurrences-of-a-substring) |
