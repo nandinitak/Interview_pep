@@ -1,8 +1,3 @@
-// #include <vector>
-// #include <queue>
-// #include <algorithm> // For reverse()
-
-// using namespace std;
 
 // struct TreeNode {
 //     int val;
@@ -16,27 +11,34 @@
 class Solution {
 public:
     TreeNode* invertTree(TreeNode* root) {
-        vector<int> ds;
-        if (root == nullptr) return nullptr; // If tree is empty, return empty vector
+        if (root == nullptr) return nullptr; // Base case: if tree is empty, return null
 
         queue<TreeNode*> q;
         q.push(root);
 
         while (!q.empty()) {
             int size = q.size();
+            vector<TreeNode*> levelNodes; // Store pointers to nodes of the current level
+
+            // Step 1: Traverse the current level and store node pointers
             for (int i = 0; i < size; i++) {
                 TreeNode* p = q.front();
                 q.pop();
-               swap(p->left,p->right);
+                levelNodes.push_back(p); // Store node pointers
 
                 if (p->left) q.push(p->left);
                 if (p->right) q.push(p->right);
             }
-            
-            // Corrected reverse() usage
-            // reverse(ds.begin() + ds.size() - size, ds.end());
+
+            // Step 2: Reverse the pointers in `levelNodes` to invert child relationships
+            reverse(levelNodes.begin(), levelNodes.end());
+
+            // Step 3: Swap left and right pointers of each node
+            for (TreeNode* node : levelNodes) {
+                swap(node->left, node->right);
+            }
         }
 
-        return root;
+        return root; // Return the inverted tree
     }
 };
