@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/nandinitak/Interview_pep/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/nandinitak/Interview_pep/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/nandinitak/Interview_pep/tree/master/0174-dungeon-game) |
+| [0678-valid-parenthesis-string](https://github.com/nandinitak/Interview_pep/tree/master/0678-valid-parenthesis-string) |
 | [0747-min-cost-climbing-stairs](https://github.com/nandinitak/Interview_pep/tree/master/0747-min-cost-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/nandinitak/Interview_pep/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/nandinitak/Interview_pep/tree/master/1250-longest-common-subsequence) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/nandinitak/Interview_pep/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/nandinitak/Interview_pep/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/nandinitak/Interview_pep/tree/master/0257-binary-tree-paths) |
+| [0678-valid-parenthesis-string](https://github.com/nandinitak/Interview_pep/tree/master/0678-valid-parenthesis-string) |
 | [1160-letter-tile-possibilities](https://github.com/nandinitak/Interview_pep/tree/master/1160-letter-tile-possibilities) |
 | [1250-longest-common-subsequence](https://github.com/nandinitak/Interview_pep/tree/master/1250-longest-common-subsequence) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/nandinitak/Interview_pep/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/nandinitak/Interview_pep/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/nandinitak/Interview_pep/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nandinitak/Interview_pep/tree/master/0144-binary-tree-preorder-traversal) |
+| [0678-valid-parenthesis-string](https://github.com/nandinitak/Interview_pep/tree/master/0678-valid-parenthesis-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/nandinitak/Interview_pep/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/nandinitak/Interview_pep/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/nandinitak/Interview_pep/tree/master/3447-clear-digits) |
@@ -272,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/nandinitak/Interview_pep/tree/master/0011-container-with-most-water) |
+| [0678-valid-parenthesis-string](https://github.com/nandinitak/Interview_pep/tree/master/0678-valid-parenthesis-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/nandinitak/Interview_pep/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Binary Search
 |  |
