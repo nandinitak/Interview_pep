@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/nandinitak/Interview_pep/tree/master/0072-edit-distance) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nandinitak/Interview_pep/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/nandinitak/Interview_pep/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/nandinitak/Interview_pep/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/nandinitak/Interview_pep/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/nandinitak/Interview_pep/tree/master/0174-dungeon-game) |
 | [0678-valid-parenthesis-string](https://github.com/nandinitak/Interview_pep/tree/master/0678-valid-parenthesis-string) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/nandinitak/Interview_pep/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nandinitak/Interview_pep/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nandinitak/Interview_pep/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0139-word-break](https://github.com/nandinitak/Interview_pep/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/nandinitak/Interview_pep/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/nandinitak/Interview_pep/tree/master/0162-find-peak-element) |
 | [0174-dungeon-game](https://github.com/nandinitak/Interview_pep/tree/master/0174-dungeon-game) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/nandinitak/Interview_pep/tree/master/0139-word-break) |
 | [1236-n-th-tribonacci-number](https://github.com/nandinitak/Interview_pep/tree/master/1236-n-th-tribonacci-number) |
 ## Matrix
 |  |
@@ -99,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/nandinitak/Interview_pep/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/nandinitak/Interview_pep/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/nandinitak/Interview_pep/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/nandinitak/Interview_pep/tree/master/0139-word-break) |
 | [0257-binary-tree-paths](https://github.com/nandinitak/Interview_pep/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nandinitak/Interview_pep/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0678-valid-parenthesis-string](https://github.com/nandinitak/Interview_pep/tree/master/0678-valid-parenthesis-string) |
@@ -150,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nandinitak/Interview_pep/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nandinitak/Interview_pep/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nandinitak/Interview_pep/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0139-word-break](https://github.com/nandinitak/Interview_pep/tree/master/0139-word-break) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/nandinitak/Interview_pep/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/nandinitak/Interview_pep/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/nandinitak/Interview_pep/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -355,4 +360,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/nandinitak/Interview_pep/tree/master/0948-sort-an-array) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/nandinitak/Interview_pep/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
