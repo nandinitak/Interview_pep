@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3226-minimum-number-game](https://github.com/nandinitak/Interview_pep/tree/master/3226-minimum-number-game) |
 | [3227-find-missing-and-repeated-values](https://github.com/nandinitak/Interview_pep/tree/master/3227-find-missing-and-repeated-values) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/nandinitak/Interview_pep/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/nandinitak/Interview_pep/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/nandinitak/Interview_pep/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/nandinitak/Interview_pep/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Math
