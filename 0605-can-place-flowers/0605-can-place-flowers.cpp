@@ -10,8 +10,8 @@ bool canPlaceFlowers(vector<int>& nums, int n) {
             (nums[i] == 0 && i > 0 && i < m - 1 && nums[i - 1] == 0 && nums[i + 1] == 0)) {
                 
             fl++;
-            nums[i] = 1;  // Place a flower
-            i++;  // Skip next index
+            nums[i] = 1;  
+            i++;  
         }
     }
 
