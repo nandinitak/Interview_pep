@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/nandinitak/Interview_pep/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/nandinitak/Interview_pep/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/nandinitak/Interview_pep/tree/master/0125-valid-palindrome) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/nandinitak/Interview_pep/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/nandinitak/Interview_pep/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/nandinitak/Interview_pep/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/nandinitak/Interview_pep/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -437,4 +438,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/nandinitak/Interview_pep/tree/master/0187-repeated-dna-sequences) |
+## Linked List
+|  |
+| ------- |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/nandinitak/Interview_pep/tree/master/0528-swapping-nodes-in-a-linked-list) |
 <!---LeetCode Topics End-->
