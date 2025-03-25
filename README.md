@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/nandinitak/Interview_pep/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3483-alternating-groups-ii](https://github.com/nandinitak/Interview_pep/tree/master/3483-alternating-groups-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/nandinitak/Interview_pep/tree/master/3643-zero-array-transformation-ii) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/nandinitak/Interview_pep/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Math
 |  |
 | ------- |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/nandinitak/Interview_pep/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/nandinitak/Interview_pep/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3226-minimum-number-game](https://github.com/nandinitak/Interview_pep/tree/master/3226-minimum-number-game) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/nandinitak/Interview_pep/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Sliding Window
 |  |
 | ------- |
