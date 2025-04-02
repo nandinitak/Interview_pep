@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/nandinitak/Interview_pep/tree/master/0174-dungeon-game) |
 | [0216-combination-sum-iii](https://github.com/nandinitak/Interview_pep/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/nandinitak/Interview_pep/tree/master/0238-product-of-array-except-self) |
+| [0455-assign-cookies](https://github.com/nandinitak/Interview_pep/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/nandinitak/Interview_pep/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/nandinitak/Interview_pep/tree/master/0643-maximum-average-subarray-i) |
 | [0747-min-cost-climbing-stairs](https://github.com/nandinitak/Interview_pep/tree/master/0747-min-cost-climbing-stairs) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/nandinitak/Interview_pep/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/nandinitak/Interview_pep/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/nandinitak/Interview_pep/tree/master/0125-valid-palindrome) |
+| [0455-assign-cookies](https://github.com/nandinitak/Interview_pep/tree/master/0455-assign-cookies) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/nandinitak/Interview_pep/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0768-partition-labels](https://github.com/nandinitak/Interview_pep/tree/master/0768-partition-labels) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/nandinitak/Interview_pep/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/nandinitak/Interview_pep/tree/master/0088-merge-sorted-array) |
+| [0455-assign-cookies](https://github.com/nandinitak/Interview_pep/tree/master/0455-assign-cookies) |
 | [0948-sort-an-array](https://github.com/nandinitak/Interview_pep/tree/master/0948-sort-an-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/nandinitak/Interview_pep/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/nandinitak/Interview_pep/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -401,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/nandinitak/Interview_pep/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/nandinitak/Interview_pep/tree/master/0134-gas-station) |
+| [0455-assign-cookies](https://github.com/nandinitak/Interview_pep/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/nandinitak/Interview_pep/tree/master/0605-can-place-flowers) |
 | [0678-valid-parenthesis-string](https://github.com/nandinitak/Interview_pep/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/nandinitak/Interview_pep/tree/master/0768-partition-labels) |
