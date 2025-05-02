@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/nandinitak/Interview_pep/tree/master/0174-dungeon-game) |
 | [0678-valid-parenthesis-string](https://github.com/nandinitak/Interview_pep/tree/master/0678-valid-parenthesis-string) |
 | [0747-min-cost-climbing-stairs](https://github.com/nandinitak/Interview_pep/tree/master/0747-min-cost-climbing-stairs) |
+| [0868-push-dominoes](https://github.com/nandinitak/Interview_pep/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/nandinitak/Interview_pep/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/nandinitak/Interview_pep/tree/master/1170-shortest-common-supersequence) |
 | [1236-n-th-tribonacci-number](https://github.com/nandinitak/Interview_pep/tree/master/1236-n-th-tribonacci-number) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nandinitak/Interview_pep/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0678-valid-parenthesis-string](https://github.com/nandinitak/Interview_pep/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/nandinitak/Interview_pep/tree/master/0768-partition-labels) |
+| [0868-push-dominoes](https://github.com/nandinitak/Interview_pep/tree/master/0868-push-dominoes) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/nandinitak/Interview_pep/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/nandinitak/Interview_pep/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/nandinitak/Interview_pep/tree/master/1170-shortest-common-supersequence) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/nandinitak/Interview_pep/tree/master/0455-assign-cookies) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/nandinitak/Interview_pep/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0768-partition-labels](https://github.com/nandinitak/Interview_pep/tree/master/0768-partition-labels) |
+| [0868-push-dominoes](https://github.com/nandinitak/Interview_pep/tree/master/0868-push-dominoes) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/nandinitak/Interview_pep/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/nandinitak/Interview_pep/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/nandinitak/Interview_pep/tree/master/2588-maximum-number-of-points-from-grid-queries) |
