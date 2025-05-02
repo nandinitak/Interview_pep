@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/nandinitak/Interview_pep/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/nandinitak/Interview_pep/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/nandinitak/Interview_pep/tree/master/0125-valid-palindrome) |
+| [0234-palindrome-linked-list](https://github.com/nandinitak/Interview_pep/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/nandinitak/Interview_pep/tree/master/0455-assign-cookies) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/nandinitak/Interview_pep/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0768-partition-labels](https://github.com/nandinitak/Interview_pep/tree/master/0768-partition-labels) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/nandinitak/Interview_pep/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/nandinitak/Interview_pep/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nandinitak/Interview_pep/tree/master/0144-binary-tree-preorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/nandinitak/Interview_pep/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/nandinitak/Interview_pep/tree/master/0678-valid-parenthesis-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/nandinitak/Interview_pep/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/nandinitak/Interview_pep/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -519,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/nandinitak/Interview_pep/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/nandinitak/Interview_pep/tree/master/0234-palindrome-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/nandinitak/Interview_pep/tree/master/0528-swapping-nodes-in-a-linked-list) |
 ## Topological Sort
 |  |
@@ -559,4 +562,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/nandinitak/Interview_pep/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/nandinitak/Interview_pep/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
