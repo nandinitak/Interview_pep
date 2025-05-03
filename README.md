@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/nandinitak/Interview_pep/tree/master/0948-sort-an-array) |
 | [1036-rotting-oranges](https://github.com/nandinitak/Interview_pep/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/nandinitak/Interview_pep/tree/master/1046-max-consecutive-ones-iii) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/nandinitak/Interview_pep/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/nandinitak/Interview_pep/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/nandinitak/Interview_pep/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1364-tuple-with-same-product](https://github.com/nandinitak/Interview_pep/tree/master/1364-tuple-with-same-product) |
@@ -452,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/nandinitak/Interview_pep/tree/master/0605-can-place-flowers) |
 | [0678-valid-parenthesis-string](https://github.com/nandinitak/Interview_pep/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/nandinitak/Interview_pep/tree/master/0768-partition-labels) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/nandinitak/Interview_pep/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/nandinitak/Interview_pep/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/nandinitak/Interview_pep/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Binary Search
