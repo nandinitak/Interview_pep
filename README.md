@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/nandinitak/Interview_pep/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/nandinitak/Interview_pep/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/nandinitak/Interview_pep/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/nandinitak/Interview_pep/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3226-minimum-number-game](https://github.com/nandinitak/Interview_pep/tree/master/3226-minimum-number-game) |
 | [3227-find-missing-and-repeated-values](https://github.com/nandinitak/Interview_pep/tree/master/3227-find-missing-and-repeated-values) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/nandinitak/Interview_pep/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/nandinitak/Interview_pep/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/nandinitak/Interview_pep/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/nandinitak/Interview_pep/tree/master/2478-longest-nice-subarray) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/nandinitak/Interview_pep/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3483-alternating-groups-ii](https://github.com/nandinitak/Interview_pep/tree/master/3483-alternating-groups-ii) |
 ## Hash Table
 |  |
