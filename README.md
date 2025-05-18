@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-count-number-of-bad-pairs](https://github.com/nandinitak/Interview_pep/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/nandinitak/Interview_pep/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/nandinitak/Interview_pep/tree/master/2478-longest-nice-subarray) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/nandinitak/Interview_pep/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/nandinitak/Interview_pep/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nandinitak/Interview_pep/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/nandinitak/Interview_pep/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/nandinitak/Interview_pep/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/nandinitak/Interview_pep/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/nandinitak/Interview_pep/tree/master/2478-longest-nice-subarray) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/nandinitak/Interview_pep/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/nandinitak/Interview_pep/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3483-alternating-groups-ii](https://github.com/nandinitak/Interview_pep/tree/master/3483-alternating-groups-ii) |
 ## Hash Table
@@ -565,10 +567,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/nandinitak/Interview_pep/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/nandinitak/Interview_pep/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/nandinitak/Interview_pep/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/nandinitak/Interview_pep/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Recursion
 |  |
 | ------- |
