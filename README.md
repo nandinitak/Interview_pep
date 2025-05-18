@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nandinitak/Interview_pep/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/nandinitak/Interview_pep/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/nandinitak/Interview_pep/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2915-count-of-interesting-subarrays](https://github.com/nandinitak/Interview_pep/tree/master/2915-count-of-interesting-subarrays) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/nandinitak/Interview_pep/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/nandinitak/Interview_pep/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3226-minimum-number-game](https://github.com/nandinitak/Interview_pep/tree/master/3226-minimum-number-game) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-count-number-of-bad-pairs](https://github.com/nandinitak/Interview_pep/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/nandinitak/Interview_pep/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/nandinitak/Interview_pep/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2915-count-of-interesting-subarrays](https://github.com/nandinitak/Interview_pep/tree/master/2915-count-of-interesting-subarrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/nandinitak/Interview_pep/tree/master/3227-find-missing-and-repeated-values) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/nandinitak/Interview_pep/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/nandinitak/Interview_pep/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -446,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/nandinitak/Interview_pep/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/nandinitak/Interview_pep/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2249-count-the-hidden-sequences](https://github.com/nandinitak/Interview_pep/tree/master/2249-count-the-hidden-sequences) |
+| [2915-count-of-interesting-subarrays](https://github.com/nandinitak/Interview_pep/tree/master/2915-count-of-interesting-subarrays) |
 | [3643-zero-array-transformation-ii](https://github.com/nandinitak/Interview_pep/tree/master/3643-zero-array-transformation-ii) |
 ## Greedy
 |  |
