@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/nandinitak/Interview_pep/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/nandinitak/Interview_pep/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/nandinitak/Interview_pep/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/nandinitak/Interview_pep/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/nandinitak/Interview_pep/tree/master/3447-clear-digits) |
 ## Divide and Conquer
 |  |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2915-count-of-interesting-subarrays](https://github.com/nandinitak/Interview_pep/tree/master/2915-count-of-interesting-subarrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/nandinitak/Interview_pep/tree/master/3227-find-missing-and-repeated-values) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/nandinitak/Interview_pep/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/nandinitak/Interview_pep/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/nandinitak/Interview_pep/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Simulation
 |  |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/nandinitak/Interview_pep/tree/master/0678-valid-parenthesis-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/nandinitak/Interview_pep/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/nandinitak/Interview_pep/tree/master/2456-construct-smallest-number-from-di-string) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/nandinitak/Interview_pep/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/nandinitak/Interview_pep/tree/master/3447-clear-digits) |
 ## Tree
 |  |
@@ -450,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/nandinitak/Interview_pep/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3226-minimum-number-game](https://github.com/nandinitak/Interview_pep/tree/master/3226-minimum-number-game) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/nandinitak/Interview_pep/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/nandinitak/Interview_pep/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Ordered Set
 |  |
 | ------- |
@@ -481,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/nandinitak/Interview_pep/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/nandinitak/Interview_pep/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/nandinitak/Interview_pep/tree/master/2456-construct-smallest-number-from-di-string) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/nandinitak/Interview_pep/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Binary Search
 |  |
 | ------- |
