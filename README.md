@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nandinitak/Interview_pep/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/nandinitak/Interview_pep/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/nandinitak/Interview_pep/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/nandinitak/Interview_pep/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/nandinitak/Interview_pep/tree/master/0055-jump-game) |
 | [0072-edit-distance](https://github.com/nandinitak/Interview_pep/tree/master/0072-edit-distance) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/nandinitak/Interview_pep/tree/master/0011-container-with-most-water) |
 | [0039-combination-sum](https://github.com/nandinitak/Interview_pep/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/nandinitak/Interview_pep/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/nandinitak/Interview_pep/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/nandinitak/Interview_pep/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/nandinitak/Interview_pep/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/nandinitak/Interview_pep/tree/master/0073-set-matrix-zeroes) |
@@ -484,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/nandinitak/Interview_pep/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/nandinitak/Interview_pep/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/nandinitak/Interview_pep/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nandinitak/Interview_pep/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/nandinitak/Interview_pep/tree/master/0134-gas-station) |
