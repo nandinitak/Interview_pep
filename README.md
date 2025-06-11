@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/nandinitak/Interview_pep/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/nandinitak/Interview_pep/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/nandinitak/Interview_pep/tree/master/3447-clear-digits) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/nandinitak/Interview_pep/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/nandinitak/Interview_pep/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/nandinitak/Interview_pep/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3483-alternating-groups-ii](https://github.com/nandinitak/Interview_pep/tree/master/3483-alternating-groups-ii) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/nandinitak/Interview_pep/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -477,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2249-count-the-hidden-sequences](https://github.com/nandinitak/Interview_pep/tree/master/2249-count-the-hidden-sequences) |
 | [2915-count-of-interesting-subarrays](https://github.com/nandinitak/Interview_pep/tree/master/2915-count-of-interesting-subarrays) |
 | [3643-zero-array-transformation-ii](https://github.com/nandinitak/Interview_pep/tree/master/3643-zero-array-transformation-ii) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/nandinitak/Interview_pep/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -583,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/nandinitak/Interview_pep/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/nandinitak/Interview_pep/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
