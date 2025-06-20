@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/nandinitak/Interview_pep/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nandinitak/Interview_pep/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/nandinitak/Interview_pep/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/nandinitak/Interview_pep/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/nandinitak/Interview_pep/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/nandinitak/Interview_pep/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/nandinitak/Interview_pep/tree/master/0045-jump-game-ii) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/nandinitak/Interview_pep/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/nandinitak/Interview_pep/tree/master/0073-set-matrix-zeroes) |
 | [0174-dungeon-game](https://github.com/nandinitak/Interview_pep/tree/master/0174-dungeon-game) |
 | [0898-transpose-matrix](https://github.com/nandinitak/Interview_pep/tree/master/0898-transpose-matrix) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nandinitak/Interview_pep/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/nandinitak/Interview_pep/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/nandinitak/Interview_pep/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/nandinitak/Interview_pep/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/nandinitak/Interview_pep/tree/master/0040-combination-sum-ii) |
 | [0113-path-sum-ii](https://github.com/nandinitak/Interview_pep/tree/master/0113-path-sum-ii) |
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nandinitak/Interview_pep/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nandinitak/Interview_pep/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/nandinitak/Interview_pep/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/nandinitak/Interview_pep/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nandinitak/Interview_pep/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nandinitak/Interview_pep/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
