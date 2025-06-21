@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/nandinitak/Interview_pep/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/nandinitak/Interview_pep/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/nandinitak/Interview_pep/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/nandinitak/Interview_pep/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/nandinitak/Interview_pep/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/nandinitak/Interview_pep/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/nandinitak/Interview_pep/tree/master/0073-set-matrix-zeroes) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/nandinitak/Interview_pep/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/nandinitak/Interview_pep/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/nandinitak/Interview_pep/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/nandinitak/Interview_pep/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/nandinitak/Interview_pep/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/nandinitak/Interview_pep/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/nandinitak/Interview_pep/tree/master/0131-palindrome-partitioning) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/nandinitak/Interview_pep/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/nandinitak/Interview_pep/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/nandinitak/Interview_pep/tree/master/0169-majority-element) |
 | [0455-assign-cookies](https://github.com/nandinitak/Interview_pep/tree/master/0455-assign-cookies) |
@@ -279,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/nandinitak/Interview_pep/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nandinitak/Interview_pep/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/nandinitak/Interview_pep/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/nandinitak/Interview_pep/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/nandinitak/Interview_pep/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nandinitak/Interview_pep/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nandinitak/Interview_pep/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
