@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1364-tuple-with-same-product](https://github.com/nandinitak/Interview_pep/tree/master/1364-tuple-with-same-product) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/nandinitak/Interview_pep/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/nandinitak/Interview_pep/tree/master/1477-product-of-the-last-k-numbers) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/nandinitak/Interview_pep/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/nandinitak/Interview_pep/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/nandinitak/Interview_pep/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/nandinitak/Interview_pep/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -543,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/nandinitak/Interview_pep/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/nandinitak/Interview_pep/tree/master/1046-max-consecutive-ones-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/nandinitak/Interview_pep/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/nandinitak/Interview_pep/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/nandinitak/Interview_pep/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/nandinitak/Interview_pep/tree/master/2280-count-good-triplets-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nandinitak/Interview_pep/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
