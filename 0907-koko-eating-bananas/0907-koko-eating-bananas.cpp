@@ -9,7 +9,7 @@ public:
             long totalhours=0;
             int mid=(low+high)/2;
             for(int i=0;i<n;i++){
-                totalhours+=(piles[i]+mid-1)/mid;
+                totalhours+=ceil((double)piles[i]/mid);
             }
             if(totalhours<=h){
                 ans=mid;
