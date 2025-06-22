@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/nandinitak/Interview_pep/tree/master/0792-binary-search) |
 | [0898-transpose-matrix](https://github.com/nandinitak/Interview_pep/tree/master/0898-transpose-matrix) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/nandinitak/Interview_pep/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0907-koko-eating-bananas](https://github.com/nandinitak/Interview_pep/tree/master/0907-koko-eating-bananas) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/nandinitak/Interview_pep/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/nandinitak/Interview_pep/tree/master/0948-sort-an-array) |
 | [1036-rotting-oranges](https://github.com/nandinitak/Interview_pep/tree/master/1036-rotting-oranges) |
@@ -539,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/nandinitak/Interview_pep/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/nandinitak/Interview_pep/tree/master/0222-count-complete-tree-nodes) |
 | [0792-binary-search](https://github.com/nandinitak/Interview_pep/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/nandinitak/Interview_pep/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/nandinitak/Interview_pep/tree/master/1046-max-consecutive-ones-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/nandinitak/Interview_pep/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/nandinitak/Interview_pep/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
