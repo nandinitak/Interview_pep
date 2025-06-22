@@ -1,24 +1,18 @@
 class Solution {
 public:
     bool func(vector<int>& nums, int mid, int n, int m, int k) {
-        int i = 0;
+        int count = 0;
         int bouquets = 0;
 
-        while (i < n) {
-            int count = 0;
-
-            while (i < n && nums[i] <= mid) {
+        for (int i = 0; i < n; i++) {
+            if (nums[i] <= mid) {
                 count++;
-                i++;
                 if (count == k) {
                     bouquets++;
                     count = 0;
                 }
-            }
-
-          
-            while (i < n && nums[i] > mid) {
-                i++;
+            } else {
+                count = 0;
             }
         }
 
@@ -27,7 +21,8 @@ public:
 
     int minDays(vector<int>& nums, int m, int k) {
         int n = nums.size();
-        if (1LL * m * k > n) return -1;  
+        // Use 1LL to prevent overflow
+        if (1LL * m * k > n) return -1;
 
         int days = -1;
         int low = *min_element(nums.begin(), nums.end());
