@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/nandinitak/Interview_pep/tree/master/1250-longest-common-subsequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/nandinitak/Interview_pep/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/nandinitak/Interview_pep/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/nandinitak/Interview_pep/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/nandinitak/Interview_pep/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2262-solving-questions-with-brainpower](https://github.com/nandinitak/Interview_pep/tree/master/2262-solving-questions-with-brainpower) |
 | [2397-count-number-of-ways-to-place-houses](https://github.com/nandinitak/Interview_pep/tree/master/2397-count-number-of-ways-to-place-houses) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/nandinitak/Interview_pep/tree/master/0139-word-break) |
 | [1236-n-th-tribonacci-number](https://github.com/nandinitak/Interview_pep/tree/master/1236-n-th-tribonacci-number) |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/nandinitak/Interview_pep/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 ## Matrix
 |  |
 | ------- |
