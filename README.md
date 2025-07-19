@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nandinitak/Interview_pep/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/nandinitak/Interview_pep/tree/master/0011-container-with-most-water) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/nandinitak/Interview_pep/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/nandinitak/Interview_pep/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/nandinitak/Interview_pep/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/nandinitak/Interview_pep/tree/master/0125-valid-palindrome) |
@@ -620,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/nandinitak/Interview_pep/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0206-reverse-linked-list](https://github.com/nandinitak/Interview_pep/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/nandinitak/Interview_pep/tree/master/0234-palindrome-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/nandinitak/Interview_pep/tree/master/0528-swapping-nodes-in-a-linked-list) |
