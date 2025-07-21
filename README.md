@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/nandinitak/Interview_pep/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/nandinitak/Interview_pep/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/nandinitak/Interview_pep/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/nandinitak/Interview_pep/tree/master/0069-sqrtx) |
 | [1236-n-th-tribonacci-number](https://github.com/nandinitak/Interview_pep/tree/master/1236-n-th-tribonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/nandinitak/Interview_pep/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -573,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/nandinitak/Interview_pep/tree/master/0029-divide-two-integers) |
 | [0187-repeated-dna-sequences](https://github.com/nandinitak/Interview_pep/tree/master/0187-repeated-dna-sequences) |
 | [0222-count-complete-tree-nodes](https://github.com/nandinitak/Interview_pep/tree/master/0222-count-complete-tree-nodes) |
 | [0491-non-decreasing-subsequences](https://github.com/nandinitak/Interview_pep/tree/master/0491-non-decreasing-subsequences) |
